@@ -1,11 +1,11 @@
----
+	---
 componentName:  A4u
 
 strings:
     productName:         A4u Linux
     bootloaderEntryName: A4u
-    productUrl:          https://A4u.github.io
-    supportUrl:          https://github.com/A4u/A4uiso/issues
+    productUrl:          https://ordanax.github.io/
+    supportUrl:          https://t.me/linux4at
     
 
 images:
