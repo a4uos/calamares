@@ -1,0 +1,21 @@
+---
+componentName:  A4u
+
+strings:
+    productName:         A4u Linux
+    bootloaderEntryName: A4u
+    productUrl:          https://A4u.github.io
+    supportUrl:          https://github.com/A4u/A4uiso/issues
+    
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#353945"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#999999"
