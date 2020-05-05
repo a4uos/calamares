@@ -1,0 +1,21 @@
+	---
+componentName:  A4u
+
+strings:
+    productName:         A4u Linux
+    bootloaderEntryName: A4u
+    productUrl:          https://ordanax.github.io/
+    supportUrl:          https://t.me/linux4at
+    
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#353945"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#999999"
