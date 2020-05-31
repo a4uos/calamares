@@ -10,8 +10,6 @@
 # squashfs-tools
 # qt5-webengine
 # git
-sudo pacman -S --noconfirm mkinitcpio-openswap
-sudo pacman -S --noconfirm ckbcomp
 sudo pacman -S --noconfirm plasma-framework
 sudo pacman -S --noconfirm qt5-xmlpatterns
 sudo pacman -S --noconfirm yaml-cpp
@@ -27,3 +25,5 @@ sudo pacman -S --noconfirm qt5-styleplugins-git
 sudo pacman -S --noconfirm kparts
 sudo pacman -S --noconfirm extra-cmake-modules
 sudo pacman -S --noconfirm qt5-tools
+yay -S --noconfirm mkinitcpio-openswap
+yay -S --noconfirm ckbcomp
