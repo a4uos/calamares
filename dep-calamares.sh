@@ -10,16 +10,16 @@
 # squashfs-tools
 # qt5-webengine
 # git
-sudo pacman -S yaml-cpp
-sudo pacman -S parted
-sudo pacman -S boost
-sudo pacman -S hwinfo
-sudo pacman -S polkit-qt5
-sudo pacman -S kdebase-runtime
-sudo pacman -S dmidecode
-sudo pacman -S kpmcore
-sudo pacman -S qt5ct
-sudo pacman -S qt5-styleplugins-git
-sudo pacman -S kparts
-sudo pacman -S extra-cmake-modules
-sudo pacman -S qt5-tools
+sudo pacman -S --noconfirm yaml-cpp
+sudo pacman -S --noconfirm parted
+sudo pacman -S --noconfirm boost
+sudo pacman -S --noconfirm hwinfo
+sudo pacman -S --noconfirm polkit-qt5
+sudo pacman -S --noconfirm kdebase-runtime
+sudo pacman -S --noconfirm dmidecode
+sudo pacman -S --noconfirm kpmcore
+sudo pacman -S --noconfirm qt5ct
+sudo pacman -S --noconfirm qt5-styleplugins-git
+sudo pacman -S --noconfirm kparts
+sudo pacman -S --noconfirm extra-cmake-modules
+sudo pacman -S --noconfirm qt5-tools
